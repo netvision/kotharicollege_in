@@ -1,0 +1,14 @@
+{
+	"i18n-ally.localesPaths": [
+		"locales"
+	],
+	"i18n-ally.keystyle": "nested",
+	"terminal.integrated.profiles.windows": {
+  "PowerShell": {
+    "source": "PowerShell",
+    "icon": "terminal-powershell",
+    "args": ["-ExecutionPolicy", "Bypass"]
+  }
+},
+"terminal.integrated.defaultProfile.windows": "PowerShell",
+}
