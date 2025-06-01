@@ -29,7 +29,7 @@ const toggleMobileMenu = () => {
 <template>
 	<header>
 		<div class="bg-gray-400 flex items-end max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-			<h2 class="text-4xl p-3 text-orange-800 pl-8 font-bold">Kothari Mahila Mahavidyalaya, Rajgarh</h2>
+			<h2 class="text-4xl p-3 text-orange-800 pl-8 font-bold">Kothari Mahila Mahavidyalaya, Mandrella</h2>
 		</div>
 		<nav class="bg-gray-800">
 			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
