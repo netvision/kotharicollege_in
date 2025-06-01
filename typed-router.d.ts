@@ -36,11 +36,13 @@ declare module '@vue-router/routes' {
     '/conversion': RouteRecordInfo<'/conversion', '/conversion', Record<never, never>, Record<never, never>>,
     '/facilities': RouteRecordInfo<'/facilities', '/facilities', Record<never, never>, Record<never, never>>,
     '/land': RouteRecordInfo<'/land', '/land', Record<never, never>, Record<never, never>>,
+    '/library': RouteRecordInfo<'/library', '/library', Record<never, never>, Record<never, never>>,
     '/map': RouteRecordInfo<'/map', '/map', Record<never, never>, Record<never, never>>,
     '/ncte': RouteRecordInfo<'/ncte', '/ncte', Record<never, never>, Record<never, never>>,
     '/noc': RouteRecordInfo<'/noc', '/noc', Record<never, never>, Record<never, never>>,
     '/society': RouteRecordInfo<'/society', '/society', Record<never, never>, Record<never, never>>,
     '/staff': RouteRecordInfo<'/staff', '/staff', Record<never, never>, Record<never, never>>,
+    '/students': RouteRecordInfo<'/students', '/students', Record<never, never>, Record<never, never>>,
   }
 }
 

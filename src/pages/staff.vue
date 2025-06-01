@@ -1,6 +1,6 @@
 <script setup>
-import staff1 from '@/assets/staff-1.jpg'
-import staff2 from '@/assets/staff-2.jpg'
+import staff1 from '@/assets/staff-1.jpeg'
+import staff2 from '@/assets/staff-2.jpeg'
 </script>
 <template>
     <AppHeader />

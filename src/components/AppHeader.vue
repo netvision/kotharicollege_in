@@ -2,6 +2,7 @@
 const menuItems = [
         { label: 'Home', url: '/' },
         { label: 'Principal & Staff', url: '/staff' },
+		{ label: 'Students', url: '/students' },
 		{ label: 'Facilities', url: '/facilities' },
 		{
 			label: 'Documents',
@@ -12,6 +13,7 @@ const menuItems = [
 				{ label: 'Society Registration', url: '/society' },
 				{ label: 'NOC & Affiliation', url: '/noc' },
 				{ label: 'NCTE Recognition', url: '/ncte' },
+				{ label: 'Library', url: '/library' },
 				{ label: 'Latest Balance Sheet', url: '/balancesheet' }
 			],
 			showArrow: true
